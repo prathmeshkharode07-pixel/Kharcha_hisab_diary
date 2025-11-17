@@ -48,6 +48,3 @@ Any questions? Email: Kharchahisabdiary247@gmail.com
 
 This privacy policy complies with Google Play requirements and India’s Digital Personal Data Protection Act (DPDP) 2023.
 
----
-*Play Store URL (daal dena):*  
-https://github.com/prathmeshkharode07-pixel/Kharcha_hisab_diary/blob/main/PRIVACY_POLICY.md
